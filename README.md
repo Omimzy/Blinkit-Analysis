@@ -188,6 +188,10 @@ ORDER BY Total_Sales DESC;
 ````
 ![image](https://github.com/user-attachments/assets/64776275-3ace-4c83-b0e5-585633807596)
 
+### DASHBOARD
+
+![Picture1](https://github.com/user-attachments/assets/5c50730a-332e-40e4-9a30-fc2efbf0a474)
+
                               
                   
 
